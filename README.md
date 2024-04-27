@@ -3,12 +3,12 @@ The disease detection app provides users with tools and resources to monitor the
 
 Healthcare is rapidly evolving, with technological advancements playing a pivotal role in improving diagnosis and treatment. Our project aims to contribute to this evolution by developing a cutting-edge website for detecting seven diseases:
 1-Brain tumor
-Alzheimer's disease
-Breast cancer
-COVID-19 
-Diabetes
-Pneumonia
-Heart disease
+2-Alzheimer's disease
+3-Breast cancer
+4-COVID-19 
+5-Diabetes
+6-Pneumonia
+7-Heart disease
 
 
 
