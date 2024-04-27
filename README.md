@@ -6,7 +6,7 @@ Breast cancer
 COVID-19 
 Diabetes
 Pneumonia
-Heart disease![image](https://github.com/vivekrajput18/Health-Detector-/assets/74731093/b038a770-8345-4fea-a9ef-5a2bbd84400f)
-Convolutional neural network![image](https://github.com/vivekrajput18/Health-Detector-/assets/74731093/81773502-63ca-40bc-b80a-f2d4cac483f9)
+Heart disease
+
 
 ![image](https://github.com/vivekrajput18/Health-Detector-/assets/74731093/990a0640-8b94-4215-a05d-aa99db928fc4)
